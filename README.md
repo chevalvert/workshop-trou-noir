@@ -38,7 +38,8 @@
 - [*Black Hole Lamp* — Curve ID](http://www.designboom.com/design/curve-id-black-hole-lamp-dario-narvaez-anthony-baxter-11-24-2016/)
 - [*Moon Lamp* — Kazuhiro Yamanaka](http://www.designboom.com/design/kazuhiro-yamanaka-collapsible-moon-lamp-11-23-2016/)
 - Olafur Eliasson ([website](http://olafureliasson.net/archive/artwork), [instagram](https://www.instagram.com/studioolafureliasson/))
-
+- V::tol (http://vtol.cc/filter/works/division-by-zero)
+- Installation sonore : electro aimant + aiguilles + verre (http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
 
 ## Ressources
 ###### Matos
