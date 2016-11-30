@@ -50,7 +50,7 @@
 - Makey Makey
 - Vidéo projecteurs
 - Leds, piles, capteurs divers, Arduino, magnets, etc...
-- Matériaux divers (mirroirs, etc...)
+- Matériaux divers (mirroirs, tulles, tissus, papier etc...)
 
 ###### Code
 - [chevalvert/osc-smt-broadcaster](https://github.com/chevalvert/osc-smt-broadcaster)
