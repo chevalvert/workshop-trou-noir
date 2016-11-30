@@ -49,6 +49,7 @@
 - kits encre conductrice
 - Makey Makey
 - Vidéo projecteurs
+- Rétro-projecteurs
 - Leds, piles, capteurs divers, Arduino, magnets, etc...
 - Matériaux divers (mirroirs, tulles, tissus, papier etc...)
 
