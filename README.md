@@ -41,4 +41,15 @@
 
 
 ## Ressources
+###### Matos
+- 2 machines à fumée
+- 2 kinect
+- 1 cadre infrarouge
+- kits encre conductrice
+- Makey Makey
+- Vidéo projecteurs
+- Leds, piles, capteurs divers, Arduino, magnets, etc...
+- Matériaux divers (mirroirs, etc...)
+
+###### Code
 - [chevalvert/osc-smt-broadcaster](https://github.com/chevalvert/osc-smt-broadcaster)
