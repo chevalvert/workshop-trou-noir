@@ -40,6 +40,17 @@
 - Olafur Eliasson ([website](http://olafureliasson.net/archive/artwork), [instagram](https://www.instagram.com/studioolafureliasson/))
 - V::tol (http://vtol.cc/filter/works/division-by-zero)
 - Installation sonore : electro aimant + aiguilles + verre (http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
+###### (suite)
+- A la recherche du Vortex (https://www.youtube.com/watch?v=rcv1IokfS0A)
+- Aireal: Interactive Tactile Experiences in Free Air (https://www.disneyresearch.com/project/aireal/)
+- Cords UIs (http://tangible.media.mit.edu/project/cord-uis/)
+- Data drops (http://www.varvarag.info/data-drops/)
+- Noisy Jelly (https://vimeo.com/38796545)
+- Alive Painting (http://www.aec.at/radicalatoms/en/alive-painting/)
+- Anish Kapoor (https://www.dezeen.com/2016/03/02/anish-kapoor-exclusive-rights-vantablack-blackest-black-pigment/)
+- Drench Glow (https://vimeo.com/119439416)
+- Ejtech (https://vimeo.com/ejt)
+- Ebb Flow (http://www.jasonbruges.com/design/#/ebb-flow/)
 
 ## Ressources
 ###### Matos
