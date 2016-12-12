@@ -6,7 +6,6 @@
 
 
 
-
 # Trou noir — force d’attraction lumineuse
 
 *Workshop conjoint entre les écoles [Boulle](http://www.ecole-boulle.org/) et [Estienne](http://www.ecole-estienne.paris/), mené par [Chevalvert](http://chevalvert.fr/) sur 3 jours*
@@ -25,6 +24,18 @@
 - Un trou noir ne peut pas être décrit théoriquement, mais peut l'être physiquement. Il ne s'agit pas réellement d'un trou, mais d'une sphère.
 - Un trou noir est composé d'une [**singularité gravitationnelle**](https://fr.wikipedia.org/wiki/Singularit%C3%A9_gravitationnelle), et d'un [**horizon**](https://fr.wikipedia.org/wiki/Horizon_(trou_noir)).
 - Un trou noir est un objet **simple**, en cela qu'il est décrit par un très petit nombre de paramètres : sa masse, sa charge électrique et son moment cinétique. Par comparaison, la description d'une planète fait intervenir des centaines de paramètres. 
+
+
+
+![01.jpg](overview/01.jpg)
+![02.jpg](overview/02.jpg)
+![03.jpg](overview/03.jpg)
+![04.jpg](overview/04.jpg)
+![05.jpg](overview/05.jpg)
+![06.jpg](overview/06.jpg)
+![07.jpg](overview/07.jpg)
+![09.jpg](overview/08.jpg)
+
 
 
 ## Références
